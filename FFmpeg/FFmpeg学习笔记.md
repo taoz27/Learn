@@ -30,7 +30,7 @@ int main() {
 }
 ```
 
-![image-20220330000301257](C:\Users\200\AppData\Roaming\Typora\typora-user-images\image-20220330000301257.png)
+![image-20220330000301257](E:\学习\FFmpeg\img\image-20220330000301257.png)
 
 # YUV格式
 
